@@ -26,6 +26,7 @@
         <audio id="audioSelect2"><source src="audio/select.mp3" type="audio/mp3" /></audio>
         <audio id="audioCombo1"><source src="audio/combo.mp3" type="audio/mp3" /></audio>
         <audio id="audioCombo2"><source src="audio/combo.mp3" type="audio/mp3" /></audio>
+
     </div>
     <div class="cover"><span>只支持竖屏浏览</span></div>
     <script src="js/kcanvas.js?1"></script>
