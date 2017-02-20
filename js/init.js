@@ -54,9 +54,7 @@
 		kEvent.init(Ca);
 
 		Linkup.init(oPictureLink, kEvent);
-
 		Linkup.renderIndex();
-		
 	}
 
 	Linkup.load(manifest, init);

@@ -526,7 +526,6 @@
                     }catch(e){
                         
                     }
-                        
                     
                     window.localStorage.setItem("rank", JSON.stringify(jRankData));
                     renderRank();
